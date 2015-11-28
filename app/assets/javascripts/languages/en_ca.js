@@ -89,7 +89,7 @@ $.FroalaEditor.LANGUAGE['en_ca'] = {
     "Tags": "Tags",
     "Are you sure? Image will be deleted.": "Are you sure? Image will be deleted.",
     "Replace": "Replace",
-    "Uploading": "Uploading",
+    "Uploading": "Загрузка",
     "Loading image": "Loading image",
     "Display": "Display",
     "Inline": "Inline",
